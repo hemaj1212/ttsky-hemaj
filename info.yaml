@@ -27,7 +27,7 @@ project:
     - "serial_alu_ctrl.v"
     - "tt_um_alu7b.v"
 
-# Pin map — all fields must be present (do not add or remove pins)
+# Pin map — all fields must be present (do not add or remove pins).
 pinout:
 
   # Dedicated inputs
